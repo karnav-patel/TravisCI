@@ -1,0 +1,7 @@
+C:\Users\patel\Source\Repos\TravisCI\Console\bin\Debug\TravisCI.exe.config
+C:\Users\patel\Source\Repos\TravisCI\Console\bin\Debug\TravisCI.exe
+C:\Users\patel\Source\Repos\TravisCI\Console\bin\Debug\TravisCI.pdb
+C:\Users\patel\Source\Repos\TravisCI\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\patel\Source\Repos\TravisCI\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\patel\Source\Repos\TravisCI\Console\obj\Debug\TravisCI.exe
+C:\Users\patel\Source\Repos\TravisCI\Console\obj\Debug\TravisCI.pdb
